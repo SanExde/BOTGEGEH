@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6282114680993@s.whatsapp.net","6282114680993@s.whatsapp.net"],
+    "ownerName": "SanXd",
+    "instagram" : "https://instagram.com/san.xd12_",
+    "botName": "SanBotz",
+    "footer": "saipulanuar.ga",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "ZQ5mbiXy",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
